@@ -1,0 +1,97 @@
+nav{
+    background-color: rgb(222, 223, 224);
+    padding: 5px;
+    overflow: hidden;
+    box-shadow: 0px 0px 3px 1px;
+}
+.left{
+    float: left;
+}
+.left a{
+    text-decoration: none;
+    color: black;
+}
+.right{
+    float: right;
+}
+.right a{
+    text-decoration: none;
+    color: black;
+}
+form h1{
+    text-align: center;
+    text-decoration: underline;
+    font-family: 'Baloo Paaji 2', cursive;
+}
+span{
+    font-family: 'Sedgwick Ave Display', cursive;
+}
+form{
+    justify-content: center;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    width: 600px;
+    height: 600px;
+    border: 2px black solid;
+    padding: 10px;
+    padding-top: 5px;
+    background-color: rgb(250, 247, 247);
+    box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.1);
+}
+#inpu{
+    width: 590px;
+    padding: 5px;
+    box-shadow: 0px 0px 15px 0px rgba(0,0,0,0.1);
+    border: none;
+}
+#btn,#btn1{
+    text-align: center;
+    padding: 5px;
+    background-color: greenyellow;
+    border: 1px solid;
+    width: 150px;
+    box-shadow: 0px 0px 5px 0px;
+    font-family: 'Arvo', serif;
+}
+#btn:hover,#btn1:hover,#btn2:hover{
+    background-color: rgb(108, 174, 183);
+}
+#btn{
+    position: absolute;
+    left: 150px;
+}
+#btn1{
+    position: absolute;
+    left: 310px;
+}
+#form1{
+    justify-content: center;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    width: 600px;
+    height: auto;
+    border: 2px black solid;
+    padding: 10px;
+    padding-top: 5px;
+    background-color: rgb(250, 247, 247);
+}
+#thnks{
+    text-align: center;
+    font-family: 'Rubik Wet Paint', cursive;
+}
+.con{
+    position: absolute;
+    left: 615px;
+    top: 350px;
+}
+#btn2{
+    text-align: center;
+    padding: 5px;
+    background-color: greenyellow;
+    border: 1px solid;
+    
+    box-shadow: 0px 0px 5px 0px;
+    font-family: 'Arvo', serif;
+}
